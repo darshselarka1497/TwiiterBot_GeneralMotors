@@ -2,7 +2,7 @@ import json
 from urllib.parse import urlencode
 import urllib.request
 
-apikey = "89948ce1"
+apikey = "your-own-api-key"
 
 parameter = {}
 
