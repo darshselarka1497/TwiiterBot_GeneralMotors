@@ -5,7 +5,7 @@ Twitter Bot which uses the API from OMDB and gives the plot of the movie once th
 ## Server currently inactive. You can view the implementation in bot.py
 
 ### Step 1
-#### Get your own api key from http://www.omdbapi.com/
+#### Get your own api key from http://www.omdbapi.com/ and put it in fetch.py
 
 ### Step 2
 ```
